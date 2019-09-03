@@ -2800,7 +2800,7 @@ ul.the-icons {
   position: absolute;
   background-color: transparent;
   border-radius: 100%;
-  border: 2px solid #e60808;
+  border: 2px solid rgba(8, 230, 138, 0.75);
   -webkit-animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   transition: all .5s;
@@ -2815,7 +2815,7 @@ ul.the-icons {
   top: 25px;
   left: 25px;
   position: absolute;
-  background-color: rgba(230, 8, 8, 0.7);
+  background-color: rgba(8, 230, 138, 0.75);
   border-radius: 100%;
   border: 2px solid transparent;
   -webkit-animation: phonering-alo-circle-fill-anim 2.3s infinite ease-in-out;
@@ -2859,7 +2859,7 @@ ul.the-icons {
 }
 .hotline-bar {
   position: absolute;
-  background: rgba(230, 8, 8, 0.75);
+  background: rgba(8, 230, 138, 0.75);
   height: 40px;
   width: 160px;
   line-height: 40px;
