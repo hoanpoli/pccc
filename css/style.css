@@ -2773,7 +2773,7 @@ ul.the-icons {
 /* Call Button */
 .hotline-phone-ring-wrap {
   position: fixed;
-  bottom: 0;
+  bottom: 5px;
   left: 0;
   z-index: 999999;
 }
@@ -2826,7 +2826,7 @@ ul.the-icons {
   transform-origin: 50% 50%;
 }
 .hotline-phone-ring-img-circle {
-	background-color: #e60808;
+	background-color: rgba(8, 230, 138, 0.75);
 	width: 33px;
   height: 33px;
   top: 37px;
