@@ -2943,7 +2943,7 @@ ul.the-icons {
   }
 }
 @media (max-width: 768px) {
-  .hotline-bar {
+  .hotline-bar, .marquee-hide {
     display: none;
   }
 }
