@@ -2947,3 +2947,8 @@ ul.the-icons {
     display: none;
   }
 }
+@media (min-width: 769px) {
+  .marquee-hide {
+    width: 48%;
+  }
+} 
